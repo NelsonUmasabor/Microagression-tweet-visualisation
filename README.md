@@ -1,0 +1,1 @@
+# The dataset is from https://www.kaggle.com/arkhoshghalb/twitter-sentiment-analysis-hatred-speech . It is a collection of 31,962 tweets, which have been labelled as either racist/sexist and non-racist/non-sexist tweets. 
